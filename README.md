@@ -15,7 +15,7 @@ This app was build with [React Native](https://reactnative.dev/).
 
 ## 📃Tutorial and further development
 
-This app was build with [Rocketseat](https://rocketseat.com.br/), as a [challange](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-react-native) part of the **GoStack Bootcamp** offered by the company. If you want to test it by your own, you can find an awesome [tutorial here](https://www.youtube.com/watch?v=aGtpGPrWXMo). 
+This app was build with [Rocketseat](https://rocketseat.com.br/), as a [challange](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-react-native) part of the **GoStack Bootcamp** offered by the company. If you want to test it by your own, you can find an awesome [tutorial here](https://www.youtube.com/watch?v=aGtpGPrWXMo) and [other resolution here](https://github.com/MuriloCampos/gostack11-desafio08).
 </br>
 
 ### How to clone and download the project?
