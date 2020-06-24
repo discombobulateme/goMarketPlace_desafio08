@@ -109,6 +109,8 @@ const CartProvider: React.FC = ({ children }) => {
     [products, addToCart, increment, decrement],
   );
 
+  // AsyncStorage.clear();
+
   return <CartContext.Provider value={value}>{children}</CartContext.Provider>;
 };
 
