@@ -1,8 +1,6 @@
 <h1 align="center">🛍 GoMarket Place App</h1>
- 
-<strong align="center">
-  A shopping app for iOS built with ReactNative.
-</strong>
+<h2 align="center">A shopping app for iOS built with ReactNative.</h1>
+
 <br>
 
 <p align="center">
@@ -17,7 +15,7 @@ This app was build with [React Native](https://reactnative.dev/).
 
 ## 📃Tutorial and further development
 
-This app was build with [Rocketseat](https://rocketseat.com.br/), as a challange part of the **GoStack Bootcamp** offered by the company.
+This app was build with [Rocketseat](https://rocketseat.com.br/), as a [challange](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-react-native) part of the **GoStack Bootcamp** offered by the company. If you want to test it by your own, you can find an awesome [tutorial here](https://www.youtube.com/watch?v=aGtpGPrWXMo). 
 </br>
 
 ### How to clone and download the project?
@@ -47,13 +45,13 @@ $ yarn ios
 
 ```
 
-## This is the Dashboard page static view:
+## This is the main shopping page static view:
 
 <p align="center">
   <img width="460" height="300" src="assets/goMktPlace.png">
 </p>
 
-## This is the repositories page static view:
+## This is the cart page static view:
 
 <p align="center">
   <img width="460" height="300" src="assets/goMktPlaceCart.png">
